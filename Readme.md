@@ -6,10 +6,10 @@ It has all the features that a Question and Answer Website should have.
 
 ## Images
 
-<img src="/images/img1.jpg">
-<img src="/images/img2.jpg">
-<img src="/images/img3.jpg">
-<img src="/images/img4.jpg">
+<img src="/images/img1.png">
+<img src="/images/img2.png">
+<img src="/images/img3.png">
+<img src="/images/img4.png">
 
 ## Technology Stack
 
