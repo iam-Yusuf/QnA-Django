@@ -33,13 +33,7 @@ It has all the features that a Question and Answer Website should have.
 
 ## Setup Commands
 
-Clone this repository
-
-1. Clone this project using
-````
-$ git clone https://github.com/Yawan-1/StackOverFlow--Clone
-````
-2. Install the Django Framework
+1. Install the Django Framework
 
 $ pip install django
 
@@ -64,15 +58,3 @@ password: "admin"
 * User1
 username: "yusufahmad123"
 password: "yusuf123"
-
-* User2 
-username: "deeksha321"
-password: "compsoft123"
-
-* User3 
-username: "smitha123"
-password: "compsoft123"
-
-* User4 
-username: "suchanda123"
-password: "compsoft123"
