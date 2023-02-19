@@ -33,7 +33,7 @@ It has all the features that a Question and Answer Website should have.
 
 ## Setup Commands
 
-1. Install the Django Framework
+1.Install the Django Framework
 
 $ pip install django
 
